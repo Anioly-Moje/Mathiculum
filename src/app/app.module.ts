@@ -60,6 +60,7 @@ import { FooterComponent } from './footer/footer.component';
       positionClass: "toast-bottom-full-width",
     }),
     RouterModule.forRoot([
+      { path: "", redirectTo: "/home", pathMatch: "full" },
       {path: "learn", component:LearnComponent, data: { state: 'learn' }},
       {path: "vector-angle", component:VectorsAngleComponent, data: { state: 'vector-angle' }},
       {path: "check-yourself", component: CheckYourselfComponent, data: { state: 'check-yourself' }},
