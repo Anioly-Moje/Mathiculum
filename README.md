@@ -11,7 +11,7 @@ Web Aplication made in 48h for RU Hacks 2021 by team "Anioły Moje" for RU Hacks
 
 ## Launch 
 
-Starting page is set as Home with informantion about our team.
+Starting page is set as Home with information about our team.
 
 ![obraz](https://user-images.githubusercontent.com/23032879/116827563-d95c8f80-ab99-11eb-9383-565ccd40f12c.png)
 
