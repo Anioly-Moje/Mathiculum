@@ -1,3 +1,18 @@
+# RU-Hacks-2021
+Web Aplication made in 48h for RU Hacks 2021 by team "Anioły Moje" for RU Hacks 2021. This application was made with a purpose of helping students with learning math. We provide theoretical information on each subject that was implemented and a set of example exercises for users to do and then check the answer. Next funkction of our app is a calculator to each topic we implemented.
+## What we used to make this projeckt
+![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)
+![SweetAlert2 Logo](https://sweetalert2.github.io/images/SweetAlert2.png)
+![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)
+
+### To Do on Hackaton:
+- [x] Watch opening ceremony
+- [x] Start project
+- [x] Make layout
+- [x] Make components
+- [x] Implement them
+- [ ] Host web app
+
 # Ruhacks2021
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
