@@ -33,7 +33,7 @@ Working prototype
 
 ## Technologies
 
-![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)![obraz](https://user-images.githubusercontent.com/23032879/116828320-3ce8bc00-ab9e-11eb-8736-e843e3cb736e.png)
+![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)![obraz](https://user-images.githubusercontent.com/23032879/116828345-6c97c400-ab9e-11eb-833b-2f10347a45c5.png)
 
 
 ![SweetAlert2 Logo](https://sweetalert2.github.io/images/SweetAlert2.png)
