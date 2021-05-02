@@ -21,7 +21,7 @@ Next page is Learn where we can find a selection of topics with theorethical inf
 
 Next page is Check yourself where you can download an examples of exercercises with answers on the next page in pdf to check yourself.
 
-![obraz](https://user-images.githubusercontent.com/23032879/116827627-48d27f00-ab9a-11eb-8ab4-d93189cb82aa.png)
+![obraz](https://user-images.githubusercontent.com/23032879/116827692-ab2b7f80-ab9a-11eb-9d23-015bb503b882.png)
 
 Lest page is a calculator for the topics that were mentioned in Learn page.
 
