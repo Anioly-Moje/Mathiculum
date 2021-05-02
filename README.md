@@ -2,13 +2,6 @@
 
 Web Aplication made in 48h for RU Hacks 2021 by team "Anioły Moje" for RU Hacks 2021. This application was made with a purpose of helping students in learning math. We provide theoretical information on each subject that was implemented and a set of example exercises for users to do and then check the answer. Next funkction of our app is a calculator to each topic we implemented.
 
-## Technologies
-
-![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)
-
-![SweetAlert2 Logo](https://sweetalert2.github.io/images/SweetAlert2.png)
-
-
 ## Launch 
 
 Starting page is set as Home with informantion about our team.
@@ -27,7 +20,11 @@ Lest page is a calculator for the topics that were mentioned in Learn page.
 
 ![obraz](https://user-images.githubusercontent.com/23032879/116827655-7f0ffe80-ab9a-11eb-9d5d-eeeecd821c36.png)
 
-## Ruhacks2021
+## Technologies
+
+![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)
+
+![SweetAlert2 Logo](https://sweetalert2.github.io/images/SweetAlert2.png)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.7.
 
