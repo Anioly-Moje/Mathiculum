@@ -33,7 +33,8 @@ Working prototype
 
 ## Technologies
 
-![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)
+![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png)![Katex_Logo](https://user-images.githubusercontent.com/23032879/116804828-46344300-ab22-11eb-8af0-3d68a5a89fbf.png)![obraz](https://user-images.githubusercontent.com/23032879/116828320-3ce8bc00-ab9e-11eb-8736-e843e3cb736e.png)
+
 
 ![SweetAlert2 Logo](https://sweetalert2.github.io/images/SweetAlert2.png)
 
@@ -44,6 +45,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 Angular - https://angular.io/
 Katex - https://katex.org/
 Sweetalert2 - https://sweetalert2.github.io/
+BootStrap - https://getbootstrap.com/
 
 ## Development server
 
