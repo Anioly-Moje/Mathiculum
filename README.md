@@ -1,6 +1,6 @@
 # RU-Hacks-2021
 
-Web Aplication made in 48h for RU Hacks 2021 by team "Anioły Moje" for RU Hacks 2021. This application was made with a purpose of helping students in learning math. We provide theoretical information on each subject that was implemented and a set of example exercises for users to do and then check the answer. Next function of our app is a calculator to each topic we implemented.
+Web Aplication made in 48h for RU Hacks 2021 by team "Anioły Moje" for RU Hacks 2021. This application was made with a purpose of helping students in learning math. We provide theoretical information on each subject that was implemented and a set of example exercises for users to do and then check the answers. Next function of our app is a calculator to each topic we implemented.
 
 ## Table of contents
 
